@@ -50,7 +50,11 @@ I welcome suggestions and comments about your favorite resources or things that 
 
 - [Git](https://en.wikipedia.org/wiki/Git) - a distributed version control system
 	- [Video: What is Version Control?](http://vimeo.com/41027679)
-	- [Video: Git Basics]()
-	-
+	- [Video: Git Basics](http://vimeo.com/41027679)
+	- [Video: Get Going with Git](https://vimeo.com/41493906)
+	- [Video: Quick Wins with Git](https://vimeo.com/41516942)
 - [Github](https://en.wikipedia.org/wiki/GitHub) - a platform and cloud-based service for software development and version control using Git
-- VIM - a screen-based text editor program
+	- [Video: Github Basics](http://vimeo.com/88271921)
+	- [Github Skills Interactive Courses](https://skills.github.com/)
+- [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)) - a screen-based text editor program
+	- if you're ever stuck in a command line or other text based editor and can't figure out what's going on, it's probably VIM! Try :qw if all else fails ;)
