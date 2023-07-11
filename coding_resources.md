@@ -2,11 +2,12 @@
 
 ##### TABLE OF CONTENTS
 
-[Introduction](#introduction-id)
+[Introduction](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#introduction-introduction)
+[Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#introduction-fun)
 
 ---
 
-#### Introduction {#introduction-id}
+#### Introduction {#introduction}
 
 Hi! :wave: These are some resources I have collected on my journey as a coder / software engineer / nerd. Most of these resources are geared towards folks who are very new to coding and software engineering and helped me answer some questions I had that are difficult to navigate as someone new to this field without a formal education in computer science.
 
@@ -22,7 +23,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Youtube Playlist Computer Academy, includes Bit and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
 
 
-#### Programming Languages :computer: {#programming_languages}
+#### Programming Languages :computer: {#programming-languages}
 
 ###### General
 
