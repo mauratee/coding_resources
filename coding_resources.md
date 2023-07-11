@@ -2,7 +2,7 @@
 
 ---
 
-##### Introduction
+#### Introduction
 
 Hi! :wave: These are some resources I have collected on my journey as a coder / software engineer / nerd. Most of these resources are geared towards folks who are very new to coding and software engineering and helped me answer some questions I had that are difficult to navigate as someone new to this field without a formal education in computer science.
 
@@ -16,3 +16,17 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Youtube Playlist Episodes 1-12](https://www.youtube.com/playlist?list=PL77441A2ED0D0B6A8) (1983)
 	- [Youtube Playlist Bits and Bytes 2](https://www.youtube.com/playlist?list=PLHBSleF-26L9DYYnUZdD3D-Ja98VxBlpB) (1993)
 	- [Youtube Playlist Computer Academy, includes Bit and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
+
+
+#### Programming Languages
+
+###### General
+
+- [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) - a high-level, general-purpose programming language
+	- [Python Documentation (3)](https://docs.python.org/3/)
+	- [The Python Tutorial (3.11.4)](https://docs.python.org/3.11/tutorial/index.html)
+- [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) - a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
+	- [Oracle Java Documentation: Java Tutorials](https://docs.oracle.com/javase/tutorial/java/index.html)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown) - a lightweight markup language for creating formatted text
+	- this file is written in Markdown!
+	- [Markdown Guide: Getting Started](https://www.markdownguide.org/getting-started/)
