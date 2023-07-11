@@ -2,11 +2,11 @@
 
 ##### TABLE OF CONTENTS
 
-[Introduction](#introduction)
+[Introduction](#introduction-id)
 
 ---
 
-#### Introduction {#introduction}
+#### Introduction {#introduction-id}
 
 Hi! :wave: These are some resources I have collected on my journey as a coder / software engineer / nerd. Most of these resources are geared towards folks who are very new to coding and software engineering and helped me answer some questions I had that are difficult to navigate as someone new to this field without a formal education in computer science.
 
