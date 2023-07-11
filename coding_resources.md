@@ -132,8 +132,8 @@ One advantage of learning through a structured class is the class will provide a
 #### Bootcamps :boot:
 
 - Hackbright
-- [Techtonica](https://techtonica.org/)
-	- [Techtonica Cirriculum on Github](https://github.com/Techtonica/curriculum)
+- [Techtonica](https://techtonica.org/) - Techtonica helps women and non-binary adults overcome barriers into the tech industry and partner companies fulfill their diverse technical talent needs
+	- [Techtonica Curriculum on Github](https://github.com/Techtonica/curriculum)
 - Grace Hopper
 - 
 
