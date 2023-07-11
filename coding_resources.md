@@ -4,9 +4,13 @@
 
 [Introduction](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#introduction)  
 [Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#fun-balloon)  
+[Software Engineering](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#software-engineering-alien)
 [Programming Languages](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#programming-languages-computer)  
 [Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)  
-[Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)
+[Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)  
+[Web Development]()  
+[Bootcamps]()  
+[Blogs + Online Reading]()  
 
 ---
 
@@ -26,7 +30,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Youtube Playlist Computer Academy, includes Bits and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
 
 
-#### Software Engineering
+#### Software Engineering :alien:
 
 As a new programmer, one of the biggest obstacles to learning to code is setting up a development environment and all the associated tools and processes. The list below gives you a general overview of what that can look like if you want to set one up for yourself locally. Many classes will provide either a hosted or cloud based environment to you as part of the class or walk you through setting up your local environment step-by-step.  This is a great option if you want more structure and guidance setting up and accessing a development environment.
 
@@ -113,10 +117,10 @@ One advantage of learning through a structured class is the class will provide a
 - [Linux Foundation: Linux Tools for Software Development](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/) (25-30 hours)
 
 
-#### Web Development
+#### Web Development :octocat:
 
 
-#### Bootcamps
+#### Bootcamps :boot:
 
 
-#### Blogs + Online Reading 
+#### Blogs + Online Reading :eyes:
