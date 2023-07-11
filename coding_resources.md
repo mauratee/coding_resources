@@ -4,7 +4,7 @@
 
 [Introduction](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#introduction)  
 [Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#fun-balloon)  
-[Software Engineering](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#software-engineering-alien)
+[Software Engineering](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#software-engineering-alien)  
 [Programming Languages](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#programming-languages-computer)  
 [Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)  
 [Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)  
