@@ -18,7 +18,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Youtube Playlist Computer Academy, includes Bit and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
 
 
-#### Programming Languages
+#### Programming Languages :computer:
 
 ###### General
 
@@ -30,3 +30,18 @@ I welcome suggestions and comments about your favorite resources or things that 
 - [Markdown](https://en.wikipedia.org/wiki/Markdown) - a lightweight markup language for creating formatted text
 	- this file is written in Markdown!
 	- [Markdown Guide: Getting Started](https://www.markdownguide.org/getting-started/)
+
+###### Front End
+
+- HTML
+- CSS
+- Javascript
+
+###### Back End
+
+- SQL
+
+###### Other
+
+- [JSON](https://en.wikipedia.org/wiki/JSON) - an open standard file format and data interchange
+- [YAML](https://en.wikipedia.org/wiki/YAML) - a human-readable data-serialization language
