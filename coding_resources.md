@@ -127,6 +127,14 @@ One advantage of learning through a structured class is the class will provide a
 
 #### Web Development :octocat:
 
+##### General
+
+##### Back End
+
+##### Front End
+
+- Google Fonts
+
 ***
 
 #### Bootcamps :boot:
