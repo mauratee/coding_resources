@@ -133,6 +133,7 @@ One advantage of learning through a structured class is the class will provide a
 
 - Hackbright
 - [Techtonica](https://techtonica.org/)
+	- [Techtonica Cirriculum on Github](https://github.com/Techtonica/curriculum)
 - Grace Hopper
 - 
 
