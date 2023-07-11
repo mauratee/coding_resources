@@ -29,6 +29,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Youtube Playlist Bits and Bytes 2](https://www.youtube.com/playlist?list=PLHBSleF-26L9DYYnUZdD3D-Ja98VxBlpB) (1993)
 	- [Youtube Playlist Computer Academy, includes Bits and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
 
+***
 
 #### Software Engineering :alien:
 
@@ -52,6 +53,7 @@ See the section below called "Free Online Classes" for other notes on developmen
 - Atom
 - Visual Studio Code
 
+***
 
 #### Programming Languages :computer:
 
@@ -82,6 +84,8 @@ See the section below called "Free Online Classes" for other notes on developmen
 - [JSON](https://en.wikipedia.org/wiki/JSON) - an open standard file format and data interchange
 - [YAML](https://en.wikipedia.org/wiki/YAML) - a human-readable data-serialization language
 
+***
+
 #### Tools :hammer:
 
 - [Git](https://en.wikipedia.org/wiki/Git) - a distributed version control system
@@ -95,6 +99,8 @@ See the section below called "Free Online Classes" for other notes on developmen
 - [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)) - a screen-based text editor program
 	- if you're ever stuck in a command line or other text based editor and can't figure out what's going on, it's probably VIM! Try :qw if all else fails ;)
 - [Linux](https://en.wikipedia.org/wiki/Linux) - a family of open-source Unix-like operating systems based on the Linux kernel
+
+***
 
 #### Free Online Classes :books:
 
@@ -117,10 +123,14 @@ One advantage of learning through a structured class is the class will provide a
 - [Linux Foundation: Linux Tools for Software Development](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/) (25-30 hours)
 
 
+***
+
 #### Web Development :octocat:
 
+***
 
 #### Bootcamps :boot:
 
+***
 
 #### Blogs + Online Reading :eyes:
