@@ -26,6 +26,29 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Youtube Playlist Computer Academy, includes Bits and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
 
 
+#### Software Engineering
+
+As a new programmer, one of the biggest obstacles to learning to code is setting up a development environment and all the associated tools and processes. The list below gives you a general overview of what that can look like if you want to set one up for yourself locally. Many classes will provide either a hosted or cloud based environment to you as part of the class or walk you through setting up your local environment step-by-step.  This is a great option if you want more structure and guidance setting up and accessing a development environment.
+
+See the section below called "Free Online Classes" for other notes on development environments.
+
+##### Development Environments
+
+- [Video: Development Environments and Why You Need One](https://www.youtube.com/watch?v=TFZrSNd7jYo)
+
+##### Command Line Terminals and Shells
+
+- bash
+- Powershell
+- cmd.exe
+
+##### Text Editors and IDEs
+
+- Sublime Text
+- Atom
+- Visual Studio Code
+
+
 #### Programming Languages :computer:
 
 ###### General
@@ -44,6 +67,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 - HTML
 - CSS
 - Javascript
+- Node.JS
 
 ###### Back End
 
@@ -87,3 +111,12 @@ One advantage of learning through a structured class is the class will provide a
 
 - [Linux Foundation: Git for Distributed Software Development](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/) (20-25 hours)
 - [Linux Foundation: Linux Tools for Software Development](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/) (25-30 hours)
+
+
+#### Web Development
+
+
+#### Bootcamps
+
+
+#### Blogs + Online Reading 
