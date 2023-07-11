@@ -3,7 +3,9 @@
 ##### TABLE OF CONTENTS
 
 [Introduction](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#introduction)  
-[Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#fun)
+[Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#fun-balloon)  
+[Programming Languages](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#programming-languages-computer)  
+[Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)
 
 ---
 
