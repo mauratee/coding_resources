@@ -5,7 +5,7 @@
 [Introduction](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#introduction)  
 [Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#fun-balloon)  
 [Programming Languages](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#programming-languages-computer)  
-[Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)
+[Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)  
 [Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)
 
 ---
@@ -74,5 +74,5 @@ I welcome suggestions and comments about your favorite resources or things that 
 
 ###### Tools
 
-- [Linux Foundation: Git for Distributed Software Development](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/)(20-25 hours)
-- [Linux Foundation: Linux Tools for Software Development](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/)(25-30 hours)
+- [Linux Foundation: Git for Distributed Software Development](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/) (20-25 hours)
+- [Linux Foundation: Linux Tools for Software Development](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/) (25-30 hours)
