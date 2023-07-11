@@ -45,3 +45,12 @@ I welcome suggestions and comments about your favorite resources or things that 
 
 - [JSON](https://en.wikipedia.org/wiki/JSON) - an open standard file format and data interchange
 - [YAML](https://en.wikipedia.org/wiki/YAML) - a human-readable data-serialization language
+
+#### Tools :hammer:
+
+- [Git](https://en.wikipedia.org/wiki/Git) - a distributed version control system
+	- [Video: What is Version Control?](http://vimeo.com/41027679)
+	- [Video: Git Basics]()
+	-
+- [Github](https://en.wikipedia.org/wiki/GitHub) - a platform and cloud-based service for software development and version control using Git
+- VIM - a screen-based text editor program
