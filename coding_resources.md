@@ -6,6 +6,7 @@
 [Fun](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#fun-balloon)  
 [Programming Languages](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#programming-languages-computer)  
 [Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)
+[Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)
 
 ---
 
@@ -65,3 +66,13 @@ I welcome suggestions and comments about your favorite resources or things that 
 	- [Github Skills Interactive Courses](https://skills.github.com/)
 - [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)) - a screen-based text editor program
 	- if you're ever stuck in a command line or other text based editor and can't figure out what's going on, it's probably VIM! Try :qw if all else fails ;)
+- [Linux](https://en.wikipedia.org/wiki/Linux) - a family of open-source Unix-like operating systems based on the Linux kernel
+
+#### Free Online Classes :books:
+
+###### Languages
+
+###### Tools
+
+- [Linux Foundation: Git for Distributed Software Development](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/)(20-25 hours)
+- [Linux Foundation: Linux Tools for Software Development](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/)(25-30 hours)
