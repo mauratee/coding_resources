@@ -23,7 +23,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 - [Bits and Bytes](https://en.wikipedia.org/wiki/Bits_and_Bytes) - Bits and Bytes is a classic, and still foundational, Canadian television series about microcomputers and the key concepts behind them.  It was produced by TVOntario in 1983, and stars Luba Goy as the instructor, and Billy Van as the student.
 	- [Youtube Playlist Episodes 1-12](https://www.youtube.com/playlist?list=PL77441A2ED0D0B6A8) (1983)
 	- [Youtube Playlist Bits and Bytes 2](https://www.youtube.com/playlist?list=PLHBSleF-26L9DYYnUZdD3D-Ja98VxBlpB) (1993)
-	- [Youtube Playlist Computer Academy, includes Bit and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
+	- [Youtube Playlist Computer Academy, includes Bits and Bytes plus additional episodes](https://www.youtube.com/playlist?list=PLHBSleF-26L80dFdwyeYRguQty9M2hz3L) (1983)
 
 
 #### Programming Languages :computer:
@@ -70,7 +70,18 @@ I welcome suggestions and comments about your favorite resources or things that 
 
 #### Free Online Classes :books:
 
+I enrolled in Coursera for free through the [NYC Department of Labor Program](https://dol.ny.gov/online-learning-coursera) and ended up learning Python initially through Coursera classes. I have linked the classes I took below, although they're not technically *free*.
+
+One advantage of learning through a structured class is the class will provide a development environment for you or guide you step-by-step through setting up your development environment. For me, this was and often still is one of the hardest parts of programming!
+
 ###### Languages
+
+- Python
+	- [Coursera: Python Basics from the University of Michigan](https://www.coursera.org/learn/python-basics) (34 hours)
+	- [Coursera: Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) (31 hours)
+	- [Coursera: Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) (16 hours)
+	- [Coursera: Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) (17 hours)
+	- [Coursera: Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project?specialization=python-3-programming) (19 hours)
 
 ###### Tools
 
