@@ -39,6 +39,8 @@ See the section below called "Free Online Classes" for other notes on developmen
 
 ##### Development Environments
 
+In software, web and mobile application development, the development environment is a workspace with a set of processes and programming tools used to develop the source code for an application or software product.
+
 - [Video: Development Environments and Why You Need One](https://www.youtube.com/watch?v=TFZrSNd7jYo)
 
 ##### Command Line Terminals and Shells
