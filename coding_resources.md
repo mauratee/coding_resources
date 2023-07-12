@@ -68,8 +68,9 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 ##### Text Editors and Interactive Development Environments (IDEs)
 
 - [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a shareware text and source code editor available for Windows, macOS, and Linux. It natively supports many programming languages and markup languages
-- Atom
-- Visual Studio Code
+- [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)) - deprecated as of December 15, 2022
+- [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) - Visual Studio Code, also commonly referred to as VS Code,[9] is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.
+	- [VS Code Official Website + Download](https://code.visualstudio.com/)
 
 ***
 
