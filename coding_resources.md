@@ -169,11 +169,19 @@ One advantage of learning through a structured class is the class will provide a
 
 #### Bootcamps :boot:
 
-- Hackbright
+To bootcamp or not to bootcamp, that is the question lol.
+
+##### West Coast
+
+- [Hackbright Academy](https://hackbrightacademy.com/) - Hackbright’s driving mission is to change the ratio in engineering and technology by providing the industry with strong, smart, and talented graduates
+- [Rithm School](https://www.rithmschool.com/) - Rithm School offers a full-stack web development course that is full-time, remote and lasts 4 months. While Rithm School is based in San Francisco, our classes are currently held remotely
 - [Techtonica](https://techtonica.org/) - Techtonica helps women and non-binary adults overcome barriers into the tech industry and partner companies fulfill their diverse technical talent needs
 	- [Techtonica Curriculum on Github](https://github.com/Techtonica/curriculum)
-- Grace Hopper
-- 
+
+##### East Coast
+
+- [Grace Hopper](https://www.gracehopper.com/) - Immersive Web Development Education for Women and Non-Binary Coders
+
 
 ***
 
