@@ -181,6 +181,7 @@ To bootcamp or not to bootcamp, that is the question lol.
 
 ##### East Coast
 
+- [Flatiron School](https://flatironschool.com/) - Our courses provide an immersive, outcomes-driven curriculum for students looking to launch a career in Software Engineering, Cybersecurity, Data Science, or Product Design
 - [Grace Hopper](https://www.gracehopper.com/) - Immersive Web Development Education for Women and Non-Binary Coders
 
 
