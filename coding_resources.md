@@ -171,7 +171,7 @@ One advantage of learning through a structured class is the class will provide a
 
 To bootcamp or not to bootcamp, that is the question lol.
 
-I did and am a great success story, I guess. I don't know if I would recommend the particular bootcamp I went to, Hackbright, however.
+I did and am a great success story, I guess. I don't know if I would recommend the particular bootcamp I went to, Hackbright, however. There are so many bootcamps out there! The list below is a short list of bootcamps I have a direct connection to: either I went there or someone I currently work with at my current job went there.
 
 Some potential questions to ask yourself about bootcamps:
 - Do you know anyone who has done this bootcamp and gotten a job after?
@@ -194,6 +194,7 @@ Some potential questions to ask yourself about bootcamps:
 - How much do you love or hate networking / self-promotion / being your own hype man?
 - How much do you love or hate interviewing? Do you have any expereince with technical interviews or know anyone who does?
 - Are people of your same identity / affinity / background also students at the bootcamp? Does that matter to you?
+- Is the bootcamp based in or has strong connections to the geographic region where you want to work? If you want a job on the West Coast, is the school based there etc.?
 
 
 ##### West Coast
