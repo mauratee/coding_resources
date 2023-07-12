@@ -193,6 +193,7 @@ Some potential questions to ask yourself about bootcamps:
 - How do you learn best and is the bootcamp curriculum aligned with that?
 - How much do you love or hate networking / self-promotion / being your own hype man?
 - How much do you love or hate interviewing? Do you have any expereince with technical interviews or know anyone who does?
+- Are people of your same identity / affinity / background also students at the bootcamp? Does that matter to you?
 
 
 ##### West Coast
