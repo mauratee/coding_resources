@@ -10,7 +10,7 @@
 [Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)  
 [Web Development](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#web-development-link)  
 [Bootcamps](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#bootcamps-boot)  
-[Blogs + Online Reading](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-eyes)  
+[Blogs + Online Reading](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#blogs--online-reading-eyes)  
 
 ---
 
