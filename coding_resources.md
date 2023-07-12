@@ -33,7 +33,7 @@ I welcome suggestions and comments about your favorite resources or things that 
 
 #### Software Engineering :alien:
 
-As a new programmer, one of the biggest obstacles to learning to code is setting up a development environment and all the associated tools and processes. The list below gives you a general overview of what that can look like if you want to set one up for yourself locally. Many classes will provide either a hosted or cloud based environment to you as part of the class or walk you through setting up your local environment step-by-step.  This is a great option if you want more structure and guidance setting up and accessing a development environment.
+As a new programmer, one of the biggest obstacles for me to learning to code was setting up a development environment and all the associated tools and processes. The list below gives you a general overview of what that can look like if you want to set one up for yourself locally. Many classes will provide either a hosted or cloud based environment to you as part of the class or walk you through setting up your local environment step-by-step.  This is a great option if you want more structure and guidance setting up and accessing a development environment.
 
 See the section below called "Free Online Classes" for other notes on development environments.
 
@@ -45,7 +45,8 @@ In software, web and mobile application development, the development environment
 
 ##### Command Line Terminals and Shells
 
-- bash
+- [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+	- [Official website + download](https://www.gnu.org/software/bash/)
 - Powershell
 - cmd.exe
 
