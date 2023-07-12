@@ -179,6 +179,7 @@ Some potential questions to ask yourself about bootcamps:
 - Have you looked at options for free or fully sponsored (paid for) bootcamps?
 - Is the cost of the bootcmap in terms of time and $$ worth potentially still not getting a tech job after?
 - The bootcamp will be hard! The job search after bootcamp may be harder and longer! Are you prepared for both in terms of finances and emotional resources? (there will be a lot of rejection in job-searching!)
+- Is your family / partner / friends / support network encouraging and available to support you in this process?
 - Do you know what kind of job you want after bootcamp?
 - What kind of resources does the bootcamp have to support you in your job search after graduating from bootcamp? 1x1 time with a career counselor (hopefully someone who was or is a tech recruiter) is something to look for and was extremely valuable for me.
 - Do you get matched with a mentor who is already an engineer or aligned with the role you want? Is this a 1x1 relationship?
