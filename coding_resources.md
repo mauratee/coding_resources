@@ -171,7 +171,7 @@ One advantage of learning through a structured class is the class will provide a
 ##### Front End
 
 - [Mozilla Developer Network (MDN) Web Docs: Accessibility Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - Accessibility (often abbreviated to A11y — as in, "a", then 11 characters, and then "y") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way
-- Google Fonts
+- [Google Fonts](https://fonts.google.com/about) - Making the web more beautiful, fast, and open through great typography
 - [Web Open Font Format (WOFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF) - a web font format developed by Mozilla in concert with Type Supply, LettError, and other organizations
 
 ***
