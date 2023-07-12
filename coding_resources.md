@@ -57,7 +57,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 	- [Article: The Python Standard REPL: Try Out Code and Ideas Quickly](https://realpython.com/python-repl/#getting-to-know-the-python-standard-repl)
 	- [Python.org shell](https://www.python.org/shell/)
 	- [Repl.it](https://replit.com/login) (requires login)
-	- [Python Morseld REPL](https://www.pythonmorsels.com/repl/)
+	- [Python Morsel REPL](https://www.pythonmorsels.com/repl/)
 
 ##### Text Editors and Interactive Development Environments (IDEs)
 
