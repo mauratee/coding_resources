@@ -146,6 +146,8 @@ One advantage of learning through a structured class is the class will provide a
 	- [Coursera: Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) (16 hours)
 	- [Coursera: Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) (17 hours)
 	- [Coursera: Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project?specialization=python-3-programming) (19 hours)
+- Java
+	- [Codegym](https://codegym.cc/) - An online Java programming course that contains a Java tutorial with 1200 Java practise tasks.
 
 ###### Web Development
 
