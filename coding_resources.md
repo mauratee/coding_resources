@@ -127,6 +127,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 	- [Github Skills Interactive Courses](https://skills.github.com/)
 - [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)) - a screen-based text editor program
 	- if you're ever stuck in a command line or other text based editor and can't figure out what's going on, it's probably VIM! Try :qw if all else fails ;)
+	- [VIM Adventures: Learn VIM by playing a game](https://vim-adventures.com/)  
 - [Linux](https://en.wikipedia.org/wiki/Linux) - a family of open-source Unix-like operating systems based on the Linux kernel
 
 ***
@@ -145,6 +146,10 @@ One advantage of learning through a structured class is the class will provide a
 	- [Coursera: Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python?specialization=python-3-programming) (16 hours)
 	- [Coursera: Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance?specialization=python-3-programming) (17 hours)
 	- [Coursera: Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project?specialization=python-3-programming) (19 hours)
+
+###### Web Development
+
+- [Odin Project](https://www.theodinproject.com/home) - The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 
 ###### Tools
 
@@ -214,6 +219,9 @@ At the end of the day, this is your decsion and you know what's best for you!
 - [Flatiron School](https://flatironschool.com/) - Our courses provide an immersive, outcomes-driven curriculum for students looking to launch a career in Software Engineering, Cybersecurity, Data Science, or Product Design
 - [Grace Hopper](https://www.gracehopper.com/) - Immersive Web Development Education for Women and Non-Binary Coders
 
+##### Other
+
+- [Odin Project](https://www.theodinproject.com/home) - The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 
 ***
 
