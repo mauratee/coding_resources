@@ -173,3 +173,5 @@ One advantage of learning through a structured class is the class will provide a
 ***
 
 #### Blogs + Online Reading :eyes:
+- [Junior Backend Software Engineer Skill Build List](https://medium.com/mintbean-io/junior-backend-startup-software-engineer-skill-build-7241506f6c2)
+- [Pointer.io: A Reading Club for Software Developers](https://www.pointer.io/) - free email subscription
