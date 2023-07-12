@@ -106,6 +106,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 ###### Back End
 
 - [SQL](https://en.wikipedia.org/wiki/SQL) - Structured Query Language (SQL) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS)
+	- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Learn SQL interactively in stages, from basic queries to complex operations
 - [Node.JS](https://en.wikipedia.org/wiki/Node.js) -  a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser
 
 ###### Other
