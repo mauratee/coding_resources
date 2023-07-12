@@ -171,6 +171,30 @@ One advantage of learning through a structured class is the class will provide a
 
 To bootcamp or not to bootcamp, that is the question lol.
 
+I did and am a great success story, I guess. I don't know if I would recommend the particular bootcamp I went to, Hackbright, however.
+
+Some potential questions to ask yourself about bootcamps:
+- Do you know anyone who has done this bootcamp and gotten a job after?
+- How will you pay for the bootcamp?
+- Is the cost of the bootcmap in terms of time and $$ worth potentially still not getting a tech job after?
+- The bootcamp will be hard! The job search after bootcamp may be harder and longer! Are you prepared for both in terms of finances and emotional resources? (there will be a lot of rejection in job-searching!)
+- Do you know what kind of job you want after bootcamp?
+- What kind of resources does the bootcamp have to support you in your job search after graduating from bootcamp? 1x1 time with a career counselor (hopefully someone who was or is a tech recruiter) is something to look for and was extremely valuable for me.
+- Do you get matched with a mentor who is already an engineer or aligned with the role you want? Is this a 1x1 relationship?
+- What companies are recruiting at the bootcamp *currently*? Will they be involved with your session, are they currently hiring, would you want to work there?
+- Would you be willing to re-locate for a job?
+- Is this bootcamp preparing you for the role or job you want in the industry?
+- Are you excited about the bootcamp's curriculum?
+- Can you talk with the teachers or find them on LinkedIn and do you like them?
+- Can you get kicked out of the bootcamp for not meeting certain milestones?
+- Are assessments or exams part of the bootcamp curriculum and what happens if oyu don't pass?
+- Is the bootcamp classroom environment more competitive or collaborative and how does the teaching staff foster a particular environment?
+- How much time is available for 1x1 help with an instructor / TA / teaching staff of the bootcamp during the intensive part?
+- How do you learn best and is the bootcamp curriculum aligned with that?
+- How much do you love or hate networking / self-promotion / being your own hype man?
+- How much do you love or hate interviewing? Do you have any expereince with technical interviews or know anyone who does?
+
+
 ##### West Coast
 
 - [Hack Reactor](https://www.galvanize.com/hack-reactor/) - Hack Reactor is a software engineering coding bootcamp education program founded in San Francisco in 2012. The program is remote-only and offered in 12-week full-time, 19-week full-time, and 38-week part-time formats
