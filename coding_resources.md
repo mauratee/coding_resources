@@ -47,6 +47,16 @@ See the section below called "Free Online Classes" for other notes on developmen
 - Powershell
 - cmd.exe
 
+#### read–eval–print loop (REPL)
+
+A read–eval–print loop (REPL), also termed an interactive toplevel or language shell, is a simple interactive computer programming environment that takes single user inputs, executes them, and returns the result to the user; a program written in a REPL environment is executed piecewise.
+
+- Python REPLs
+	- [Article: The Python Standard REPL: Try Out Code and Ideas Quickly](https://realpython.com/python-repl/#getting-to-know-the-python-standard-repl)
+	- [Python.org shell](https://www.python.org/shell/)
+	- [Repl.it](https://replit.com/login) (requires login)
+	- [Python Morseld REPL](https://www.pythonmorsels.com/repl/)
+
 ##### Text Editors and Interactive Development Environments (IDEs)
 
 - Sublime Text
