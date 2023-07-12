@@ -47,7 +47,7 @@ See the section below called "Free Online Classes" for other notes on developmen
 - Powershell
 - cmd.exe
 
-##### Text Editors and IDEs
+##### Text Editors and Interactive Development Environments (IDEs)
 
 - Sublime Text
 - Atom
@@ -70,10 +70,13 @@ See the section below called "Free Online Classes" for other notes on developmen
 
 ###### Front End
 
-- HTML
-- CSS
-- Javascript
-- Node.JS
+- [HTML](https://en.wikipedia.org/wiki/HTML) - HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser
+	- [Mozilla Developer Network (MDN) Web Docs: HTML Resources](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS) - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML
+	- [Mozilla Developer Network (MDN) Web Docs: CSS Resources](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS
+	- [Mozilla Developer Network (MDN) Web Docs: JaveScript Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Node.JS](https://en.wikipedia.org/wiki/Node.js) -  a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser
 
 ###### Back End
 
@@ -133,7 +136,9 @@ One advantage of learning through a structured class is the class will provide a
 
 ##### Front End
 
+- [Mozilla Developer Network (MDN) Web Docs: Accessibility Resources](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - Accessibility (often abbreviated to A11y — as in, "a", then 11 characters, and then "y") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way
 - Google Fonts
+- [Web Open Font Format (WOFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF) - a web font format developed by Mozilla in concert with Type Supply, LettError, and other organizations
 
 ***
 
