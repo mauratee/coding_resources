@@ -64,6 +64,10 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 	- [Python.org shell](https://www.python.org/shell/)
 	- [Repl.it](https://replit.com/login) (requires login)
 	- [Python Morsel REPL](https://www.pythonmorsels.com/repl/)
+- Java Jshell
+	- [Official Jshell Tutorial](https://dev.java/learn/jshell-tool/)
+	- [OneCompiler Jshell Online](https://onecompiler.com/jshell)
+	- [TryJshell.org Online](https://tryjshell.org/)
 
 ##### Text Editors and Interactive Development Environments (IDEs)
 
@@ -82,6 +86,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) - a high-level, general-purpose programming language
 	- [Python Documentation (3)](https://docs.python.org/3/)
 	- [The Python Tutorial (3.11.4)](https://docs.python.org/3.11/tutorial/index.html)
+	- [Article: How To Open Python on Windows, Mac, Linux](https://python.land/installing-python/starting-python)
 - [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) - a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
 	- [Oracle Java Documentation: Java Tutorials](https://docs.oracle.com/javase/tutorial/java/index.html)
 - [Markdown](https://en.wikipedia.org/wiki/Markdown) - a lightweight markup language for creating formatted text
