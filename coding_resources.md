@@ -8,9 +8,9 @@
 [Programming Languages](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#programming-languages-computer)  
 [Tools](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#tools-hammer)  
 [Free Online Classes](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-books)  
-[Web Development]()  
-[Bootcamps]()  
-[Blogs + Online Reading]()  
+[Web Development](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#web-development-link)  
+[Bootcamps](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#bootcamps-boot)  
+[Blogs + Online Reading](https://github.com/mauratee/coding_resources/blob/main/coding_resources.md#free-online-classes-eyes)  
 
 ---
 
@@ -148,7 +148,7 @@ One advantage of learning through a structured class is the class will provide a
 
 ***
 
-#### Web Development :octocat:
+#### Web Development :link:
 
 ##### General
 
