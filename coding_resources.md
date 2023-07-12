@@ -87,6 +87,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 	- [Python Documentation (3)](https://docs.python.org/3/)
 	- [The Python Tutorial (3.11.4)](https://docs.python.org/3.11/tutorial/index.html)
 	- [Article: How To Open Python on Windows, Mac, Linux](https://python.land/installing-python/starting-python)
+	- [Python Cheatsheet on Github](https://github.com/gto76/python-cheatsheet)  
 - [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29) - a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible
 	- [Oracle Java Documentation: Java Tutorials](https://docs.oracle.com/javase/tutorial/java/index.html)
 - [Markdown](https://en.wikipedia.org/wiki/Markdown) - a lightweight markup language for creating formatted text
