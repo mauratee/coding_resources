@@ -197,6 +197,7 @@ Some potential questions to ask yourself about bootcamps:
 - Are people of your same identity / affinity / background also students at the bootcamp? Does that matter to you?
 - Is the bootcamp based in or has strong connections to the geographic region where you want to work? If you want a job on the West Coast, is the school based there etc.?
 
+At the end of the day, this is your decsion and you know what's best for you!
 
 ##### West Coast
 
