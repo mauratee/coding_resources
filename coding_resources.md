@@ -76,11 +76,11 @@ See the section below called "Free Online Classes" for other notes on developmen
 	- [Mozilla Developer Network (MDN) Web Docs: CSS Resources](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS
 	- [Mozilla Developer Network (MDN) Web Docs: JaveScript Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Node.JS](https://en.wikipedia.org/wiki/Node.js) -  a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser
 
 ###### Back End
 
-- SQL
+- [SQL](https://en.wikipedia.org/wiki/SQL) - Structured Query Language (SQL) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS)
+- [Node.JS](https://en.wikipedia.org/wiki/Node.js) -  a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser
 
 ###### Other
 
