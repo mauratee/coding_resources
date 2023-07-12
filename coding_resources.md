@@ -176,6 +176,7 @@ I did and am a great success story, I guess. I don't know if I would recommend t
 Some potential questions to ask yourself about bootcamps:
 - Do you know anyone who has done this bootcamp and gotten a job after?
 - How will you pay for the bootcamp?
+- Have you looked at options for free or fully sponsored (paid for) bootcamps?
 - Is the cost of the bootcmap in terms of time and $$ worth potentially still not getting a tech job after?
 - The bootcamp will be hard! The job search after bootcamp may be harder and longer! Are you prepared for both in terms of finances and emotional resources? (there will be a lot of rejection in job-searching!)
 - Do you know what kind of job you want after bootcamp?
