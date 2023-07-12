@@ -51,7 +51,7 @@ A [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_inte
 	- [Official website + download](https://www.gnu.org/software/bash/)
 - [Powershell](https://en.wikipedia.org/wiki/PowerShell)
 	- [Official Documentation from Microsoft](https://learn.microsoft.com/en-us/powershell/)
-- [cmd.exe](https://learn.microsoft.com/en-us/powershell/)
+- [cmd.exe](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands?source=recommendations)
 
 #### read–eval–print loop (REPL)
 
@@ -65,7 +65,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 
 ##### Text Editors and Interactive Development Environments (IDEs)
 
-- Sublime Text
+- [Sublime Text](https://www.sublimetext.com/) - Sublime Text is a shareware text and source code editor available for Windows, macOS, and Linux. It natively supports many programming languages and markup languages
 - Atom
 - Visual Studio Code
 
