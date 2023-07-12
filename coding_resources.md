@@ -45,10 +45,13 @@ In software, web and mobile application development, the development environment
 
 ##### Command Line Terminals and Shells
 
+A [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface#Command_prompt) is a means of interacting with a device or computer program with commands from a user or client, and responses from the device or program, in the form of lines of text.
+
 - [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 	- [Official website + download](https://www.gnu.org/software/bash/)
-- Powershell
-- cmd.exe
+- [Powershell](https://en.wikipedia.org/wiki/PowerShell)
+	- [Official Documentation from Microsoft](https://learn.microsoft.com/en-us/powershell/)
+- [cmd.exe](https://learn.microsoft.com/en-us/powershell/)
 
 #### read–eval–print loop (REPL)
 
@@ -88,7 +91,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 - [CSS](https://en.wikipedia.org/wiki/CSS) - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML
 	- [Mozilla Developer Network (MDN) Web Docs: CSS Resources](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS
-	- [Mozilla Developer Network (MDN) Web Docs: JaveScript Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+	- [Mozilla Developer Network (MDN) Web Docs: JavaScript Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ###### Back End
 
