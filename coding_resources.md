@@ -47,6 +47,8 @@ In software, web and mobile application development, the development environment
 
 A [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface#Command_prompt) is a means of interacting with a device or computer program with commands from a user or client, and responses from the device or program, in the form of lines of text.
 
+In computing, a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) is a computer program that exposes an operating system's services to a human user or other programs. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
+
 - [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 	- [Official website + download](https://www.gnu.org/software/bash/)
 - [Powershell](https://en.wikipedia.org/wiki/PowerShell)
