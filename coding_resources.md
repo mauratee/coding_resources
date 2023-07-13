@@ -81,6 +81,8 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 
 #### Programming Languages :computer:
 
+These are the languages I am most familiar with and am continuing to learn so far. There are amny others out there! I will say Python is generally good as a first language to learn and is where I started learning to code :)
+
 ###### General
 
 - [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) - a high-level, general-purpose programming language
@@ -107,6 +109,7 @@ A read–eval–print loop (REPL), also termed an interactive toplevel or langua
 
 - [SQL](https://en.wikipedia.org/wiki/SQL) - Structured Query Language (SQL) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS)
 	- [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Learn SQL interactively in stages, from basic queries to complex operations
+	 - [SQL in one page](https://www.cheat-sheets.org/sites/sql.su/) - SQL cheatsheet in one page!
 - [Node.JS](https://en.wikipedia.org/wiki/Node.js) -  a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser
 
 ###### Other
@@ -166,7 +169,14 @@ One advantage of learning through a structured class is the class will provide a
 
 ##### General
 
+- [Video: Learn web development as an absolute beginner](https://www.youtube.com/watch?v=ysEN5RaKOlA)
+
 ##### Back End
+
+- [Video: Backend web development - a complete overview](https://www.youtube.com/watch?v=ysEN5RaKOlA)
+- [Video: What is a REST API?](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+- [Mozilla Developer Network (MDN) Web Docs: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [Video: SQL vs. NoSQL: What's the difference?](https://www.youtube.com/watch?v=Q5aTUc7c4jg)
 
 ##### Front End
 
@@ -182,7 +192,8 @@ To bootcamp or not to bootcamp, that is the question lol.
 
 I did and am a great success story, I guess. I don't know if I would recommend the particular bootcamp I went to, Hackbright, however. There are so many bootcamps out there! The list below is a short list of bootcamps I have a direct connection to: either I went there or someone I currently work with at my current job went there.
 
-Some potential questions to ask yourself about bootcamps:
+**Some potential questions to ask yourself about bootcamps:**
+
 - Do you know anyone who has done this bootcamp and gotten a job after?
 - How will you pay for the bootcamp?
 - Have you looked at options for free or fully sponsored (paid for) bootcamps?
@@ -215,7 +226,6 @@ At the end of the day, this is your decsion and you know what's best for you!
 - [Hackbright Academy](https://hackbrightacademy.com/) - Hackbright’s driving mission is to change the ratio in engineering and technology by providing the industry with strong, smart, and talented graduates
 - [Rithm School](https://www.rithmschool.com/) - Rithm School offers a full-stack web development course that is full-time, remote and lasts 4 months. While Rithm School is based in San Francisco, our classes are currently held remotely
 - [Techtonica](https://techtonica.org/) - Techtonica helps women and non-binary adults overcome barriers into the tech industry and partner companies fulfill their diverse technical talent needs
-	- [Techtonica Curriculum on Github](https://github.com/Techtonica/curriculum)
 
 ##### East Coast
 
